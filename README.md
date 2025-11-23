@@ -10,20 +10,6 @@
 
 <br/>
 
-<!-- Social Badges -->
-<p>
-  <a href="https://www.linkedin.com/in/pravin-kanotara/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:prvnkanotara@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-  </a>
-  <a href="https://portfolio-theta-ebon-76.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=pkanotara&color=3B82F6&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</p>
-
 </div>
 
 <br/>
@@ -139,10 +125,6 @@ const pravinKanotara = {
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br>Python
     </td>
@@ -157,10 +139,6 @@ const pravinKanotara = {
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-      <br>Redux
     </td>
   </tr>
 </table>
@@ -182,8 +160,8 @@ const pravinKanotara = {
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
+      <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="netlify" />
+      <br>Netlify
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
