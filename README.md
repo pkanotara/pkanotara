@@ -352,37 +352,6 @@ Stay tuned for updates!
 
 <br/>
 
-<!-- Current Status -->
-<div align="center">
-
-## 🎯 Current Focus
-
-```mermaid
-mindmap
-  root((Pravin))
-    Learning
-      Machine Learning
-      Cloud Computing
-      System Design
-      AI Automation
-    Building
-      MERN Applications
-      AI Tools
-      Open Source
-    Practicing
-      DSA on LeetCode
-      Competitive Programming
-      Code Reviews
-    Exploring
-      Prompt Engineering
-      AI Agents
-      DevOps
-```
-
-</div>
-
-<br/>
-
 <!-- Contact Section -->
 <div align="center">
 
