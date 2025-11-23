@@ -1,132 +1,118 @@
 <div align="center">
 
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-<h1 style="display: inline-block; vertical-align: middle;">Hi, I'm Pravin Kanotara</h1>
+# Hi, I'm Pravin Kanotara 👋
 
-<!-- Typing Effect -->
-
-<a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.fontauth.com/a%3Ffont%3DInter%26weight%3D600%26size%3D22%26pause%3D1000%26color%3D3B82F6%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DFull%2BStack%2BDeveloper%2BCreate%2BScalable%2BApps%3BComputer%2BScience%2BStudent%2B%2540%2BNirma%2BUniversity%3BBuilding%2BAI-Powered%2BWeb%2BSolutions" alt="Typing SVG" />
-</a>
-
-<p align="center">
-<a href="https://portfolio-theta-ebon-76.vercel.app/"><strong>🌐 Visit My Portfolio</strong></a> •
-<a href="https://www.linkedin.com/in/pravin-kanotara/"><strong>👔 LinkedIn</strong></a> •
-<a href="mailto:prvnkanotara@gmail.com"><strong>📧 Email Me</strong></a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Computer+Science+Student;Problem+Solver" alt="Typing SVG" />
 
 </div>
 
-👨‍💻 About Me
+<br/>
 
-I am a Computer Science Engineering Student at Nirma University (2022-2026) with a passion for building robust, user-centric digital experiences. My expertise lies in Full Stack Development (MERN), but I am actively expanding my horizons into AI Agents, Prompt Engineering, and Cloud Computing.
+## 🧑‍💻 About Me
 
-🔭 Currently working on: Integrating AI models into web applications.
+**Computer Science Engineering Student at Nirma University**
 
-🌱 Learning: AWS Cloud Architecture & Advanced System Design.
+Passionate about building scalable web applications and solving complex problems through code. I specialize in full-stack development with the MERN stack and have a keen interest in creating user-centric digital experiences.
 
-🎓 Certification: AWS Academy Graduate - Cloud Foundations.
+🔹 **Current Project**: Food delivery web application using React.js, Node.js, and MongoDB  
+🔹 **Focus Areas**: Full-stack web development, REST APIs, and responsive UI design  
+🔹 **Learning**: Machine Learning, Cloud Computing, and System Design
 
-💡 Hackathons: Participant in Smart India Hackathon & MINED Hackathon.
+<br/>
 
-🛠️ Technical Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-Languages
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Frontend
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Backend & Database
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-Tools & Cloud
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
-🚀 Featured Projects
+<br/>
 
-Project
-
-Description
-
-Tech Stack
-
-🧠 Smart Notes
-
-AI-Powered Note Taking App. Features rich text editing, summarization, translation, and glossary generation using Gemini & Groq APIs. Includes AES-256 encryption for privacy.
-
-React Vite Tailwind AI APIs
-
-🍔 Food Delivery App
-
-Full Stack E-Commerce. A responsive food ordering platform with cart management, user authentication, and dynamic API data rendering. Built during internship at Su-kEm Tech Lab.
-
-React Node.js MongoDB Express
-
-🔐 Auth System
-
-Secure Authentication Service. A robust JWT-based auth system featuring OTP verification (Nodemailer), password hashing (Bcrypt), and persistent sessions.
-
-MERN Stack JWT Redux
-
-📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dpkanotara%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D3B82F6%26text_color%3D8b949e%26icon_color%3D3B82F6%26count_private%3Dtrue" height="160" alt="stats graph" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dpkanotara%26layout%3Dcompact%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D3B82F6%26text_color%3D8b949e%26icon_color%3D3B82F6" height="160" alt="languages graph" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pkanotara&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkanotara&layout=compact&langs_count=6&theme=github_dark&hide_border=true"/>
 </div>
 
+<br/>
+
 <div align="center">
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dpkanotara%26theme%3Ddark%26background%3D0d1117%26date_format%3DM%2520j%255B%252C%2520Y%255D%26hide_border%3Dtrue%26ring%3D3B82F6%26currStreakLabel%3D3B82F6" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pkanotara&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-🧩 Problem Solving
+<br/>
+
+## 🚀 What I'm Up To
+
+```javascript
+const pravin = {
+  education: "Computer Science Engineering @ Nirma University",
+  currentlyBuilding: "Food Delivery Web Application (MERN Stack)",
+  learning: ["Machine Learning", "Cloud Computing", "System Design"],
+  interests: ["Full Stack Development", "Problem Solving", "Open Source"],
+  askMeAbout: ["React", "Node.js", "MongoDB", "JavaScript", "Web Development"]
+};
+```
+
+<br/>
+
+## 🔗 Coding Profiles
 
 <div align="center">
-<a href="https://leetcode.com/pravin_kanotara">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-000000%3Fstyle%3Dfor-the-badge%26logo%3DLeetCode%26logoColor%3D%23d16c06" />
-</a>
-<a href="https://codeforces.com/profile/p_kanotara">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Codeforces-445f9d%3Fstyle%3Dfor-the-badge%26logo%3DCodeforces%26logoColor%3Dwhite" />
-</a>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/pravin_kanotara)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/p_kanotara)
+
 </div>
 
+<br/>
+
+## 📫 Connect With Me
+
 <div align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dpkanotara%26style%3Dflat-square%26color%3Dblue" alt="Profile Views"/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravin-kanotara/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prvnkanotara@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pkanotara)
 
+</div>
 
+<br/>
 
+<div align="center">
 
-<i>"The best way to learn is by building. The best way to build is by solving real problems."</i>
+![Profile Views](https://komarev.com/ghpvc/?username=pkanotara&color=58a6ff&style=for-the-badge&label=Profile+Views)
+
+---
+
+*"The best way to learn is by building. The best way to build is by solving real problems."*
+
+⭐ **Star my repositories if you find them helpful!**
 
 </div>
