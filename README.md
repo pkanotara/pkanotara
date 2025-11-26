@@ -30,7 +30,7 @@ const pravinKanotara = {
         cgpa: 7.19
     },
     currentFocus: [
-        "Building scalable MERN applications",
+        "Building scalable MERN stack applications",
         "Exploring AI automation & prompt engineering",
         "Contributing to open source projects"
     ],
