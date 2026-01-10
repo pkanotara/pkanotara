@@ -27,7 +27,7 @@ const pravinKanotara = {
         degree: "B.Tech in Computer Science & Engineering",
         university: "Nirma University",
         graduationYear: 2026,
-        cgpa: 7.19
+        cgpa: 7.32
     },
     currentFocus: [
         "Building scalable MERN stack applications",
